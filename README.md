@@ -25,6 +25,28 @@ New students and teachers can be added through the admin page. A new user needs 
 The admin page is used to modify all tables such as Students, Teachers, Departments, Courses, Classes etc.
 
 For more details regarding the system and features please refer the reports included.
+## Screenshots
+  ## teacher
 
 <img src="https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/scr.png" />
 
+
+<img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src1.png" />
+
+<img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src3.png" />
+
+  ## students
+  
+  <img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src4.png" />
+  
+  <img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src5.png" />
+
+  <img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src6.png" />
+
+ ## administration
+ 
+ <img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src7.png" />
+ 
+ <img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src8.png" />
+ 
+ <img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src9.png" />
