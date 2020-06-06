@@ -47,7 +47,7 @@ For more details regarding the system and features please refer the reports incl
 
  ## administration
  
- <img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src7.png" />
+ <img src="https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src7.png" />
  
  <img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src8.png" />
  
