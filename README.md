@@ -41,9 +41,9 @@ For more details regarding the system and features please refer the reports incl
   
   <img src="https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src4.png" />
   
-  <img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src5.png" />
+  <img src="https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src5.png" />
 
-  <img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src6.png" />
+  <img src="https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src6.png" />
 
  ## administration
  
