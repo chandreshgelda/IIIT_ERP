@@ -37,7 +37,9 @@ For more details regarding the system and features please refer the reports incl
 
   ## students
   
-  <img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src4.png" />
+  
+  <img src="https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/scr.png" />
+  <img src="https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src4.png" />
   
   <img src=" https://github.com/chandreshgelda/IIIT_ERP/blob/master/images/src5.png" />
 
